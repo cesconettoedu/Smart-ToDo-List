@@ -2,7 +2,7 @@
 
 Smart TODO List is an application that sorts your reminders for you automitcally! What a relief!
 
-To get started, make sure you are in the directory Smart-ToDo-List, run "run npm local" in your 
+To get started, make sure you are in the directory Smart-ToDo-List, run "npm run local" in your 
 terminal, and Visit `http://localhost:3000/` ! 
 
 Have Fun!
